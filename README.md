@@ -57,8 +57,7 @@ interactive-3d-portfolio/
 
 ## 📬 Contact
 
-📧 Email: `example@example.com`  
-📱 Phone: `123-456-7890`
+`
 
 Feel free to connect and collaborate!
 
